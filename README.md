@@ -1,4 +1,4 @@
-#AuroraCast
+# AuroraCast
 Basic site for displaying change of viewing aurora borealis.
 
 Made possible with: 
