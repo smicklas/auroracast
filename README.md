@@ -1,5 +1,5 @@
 # AuroraCast
-Basic site for displaying change of viewing aurora borealis.
+Basic site for displaying chance of viewing aurora borealis.
 
 Made possible with: 
  * [Darksky API](https://darksky.net/dev) for cloud coverage data
